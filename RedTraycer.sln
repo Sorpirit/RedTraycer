@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedTraycer", "RedTraycer\RedTraycer.csproj", "{B5907BF0-AC61-4544-B19B-7FBA8C67F3D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedTracer", "RedTracer\RedTracer.csproj", "{B5907BF0-AC61-4544-B19B-7FBA8C67F3D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
